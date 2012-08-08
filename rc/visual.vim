@@ -12,3 +12,9 @@ set nowrap
 
 " Keep a few lines above and below current line
 set scrolloff=4
+
+" always show status line
+set ls=2
+
+" highlight current line
+" set cursorline " <= slows down scrolling a lot
