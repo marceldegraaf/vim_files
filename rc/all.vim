@@ -24,3 +24,4 @@ source ~/.vim/rc/visual.vim
 source ~/.vim/rc/keys.vim
 source ~/.vim/rc/filetypes.vim
 source ~/.vim/rc/tabs.vim
+source ~/.vim/rc/whitespace.vim
